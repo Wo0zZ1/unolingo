@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Wo0zZ1/unolingo-api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Wo0zZ1/unolingo-client.git
