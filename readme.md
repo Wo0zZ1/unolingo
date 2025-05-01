@@ -96,32 +96,32 @@ yarn start
 
 ### 1. Страница авторизации
 
-![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/registration.PNG)
+![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/registration.PNG)
 
 ### 2. Страница профиля
 
-![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/profile.PNG)
+![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/profile.PNG)
 
 ### 3. Страница статистики
 
-![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/statistic.PNG)
+![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/statistic.PNG)
 
 ### 4. Страница выбора уровня
 
-![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/map.PNG)
+![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/map.PNG)
 
 ### 5. Страница теории
 
-![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/theory.PNG)
+![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/theory.PNG)
 
 ### 6. Страницы прохожения уровня
 
-![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/wordPicker.PNG)
-![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/textInput.PNG)
+![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/wordPicker.PNG)
+![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/textInput.PNG)
 
 ### 7. Страница результатов прохождения уровня
 
-![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/levelComplete.PNG)
+![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/levelComplete.PNG)
 
 ## 📄 Лицензия
 
