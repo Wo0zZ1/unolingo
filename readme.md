@@ -92,6 +92,37 @@ yarn start
 
 #### 💡 **`TIP`**: Для работы на мобильным приложении установите [Expo Go](https://expo.dev/go)
 
+## 📱 Демо:
+
+### 1. Страница авторизации
+
+![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/registration.PNG)
+
+### 2. Страница профиля
+
+![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/profile.PNG)
+
+### 3. Страница статистики
+
+![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/statistic.PNG)
+
+### 4. Страница выбора уровня
+
+![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/map.PNG)
+
+### 5. Страница теории
+
+![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/theory.PNG)
+
+### 6. Страницы прохожения уровня
+
+![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/wordPicker.PNG)
+![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/textInput.PNG)
+
+### 7. Страница результатов прохождения уровня
+
+![ㅤ](https://github.com/Wo0zZ1/Unolingo/raw/main/assets/levelComplete.PNG)
+
 ## 📄 Лицензия
 
 Copyright © 2025 [Wo0zZ1](https://github.com/Wo0zZ1)\
