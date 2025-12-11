@@ -96,32 +96,32 @@ yarn start
   
 ### 1. Страница авторизации
 
-<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/registration.PNG" width="30%" alt="Страница авторизации">
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/registration.PNG" width="300px" alt="Страница авторизации">
 
 ### 2. Страница профиля
 
-<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/profile.PNG" width="30%" alt="Страница профиля">
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/profile.PNG" width="300px" alt="Страница профиля">
 
 ### 3. Страница статистики
 
-<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/statistic.PNG" width="30%" alt="Страница статистики">
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/statistic.PNG" width="300px" alt="Страница статистики">
 
 ### 4. Страница выбора уровня
 
-<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/map.PNG" width="30%" alt="Страница выбора уровня">
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/map.PNG" width="300px" alt="Страница выбора уровня">
 
 ### 5. Страница теории
 
-<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/theory.PNG" width="30%" alt="Страница теории">
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/theory.PNG" width="300px" alt="Страница теории">
 
 ### 6. Страницы прохожения уровня
 
-<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/wordPicker.PNG" width="30%" alt="Страницы прохожения уровня 1">
-<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/textInput.PNG" width="30%" alt="Страницы прохожения уровня 2">
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/wordPicker.PNG" width="300px" alt="Страницы прохожения уровня 1">
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/textInput.PNG" width="300px" alt="Страницы прохожения уровня 2">
 
 ### 7. Страница результатов прохождения уровня
 
-<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/levelComplete.PNG" width="30%" alt="Страница результатов прохождения уровня">
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/levelComplete.PNG" width="300px" alt="Страница результатов прохождения уровня">
 
 ## 📄 Лицензия
 
