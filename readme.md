@@ -93,35 +93,35 @@ yarn start
 #### 💡 **`TIP`**: Для работы на мобильным приложении установите [Expo Go](https://expo.dev/go)
 
 ## 📱 Демо:
-
+  
 ### 1. Страница авторизации
 
-![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/registration.PNG)
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/registration.PNG" width="30%" alt="Страница авторизации">
 
 ### 2. Страница профиля
 
-![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/profile.PNG)
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/profile.PNG" width="30%" alt="Страница профиля">
 
 ### 3. Страница статистики
 
-![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/statistic.PNG)
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/statistic.PNG" width="30%" alt="Страница статистики">
 
 ### 4. Страница выбора уровня
 
-![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/map.PNG)
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/map.PNG" width="30%" alt="Страница выбора уровня">
 
 ### 5. Страница теории
 
-![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/theory.PNG)
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/theory.PNG" width="30%" alt="Страница теории">
 
 ### 6. Страницы прохожения уровня
 
-![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/wordPicker.PNG)
-![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/textInput.PNG)
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/wordPicker.PNG" width="30%" alt="Страницы прохожения уровня 1">
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/textInput.PNG" width="30%" alt="Страницы прохожения уровня 2">
 
 ### 7. Страница результатов прохождения уровня
 
-![ㅤ](https://github.com/Wo0zZ1/unolingo/raw/main/assets/levelComplete.PNG)
+<img src="https://github.com/Wo0zZ1/unolingo/raw/main/assets/levelComplete.PNG" width="30%" alt="Страница результатов прохождения уровня">
 
 ## 📄 Лицензия
 
